@@ -26,26 +26,12 @@
 
 <p align="left">
   <a href="https://instagram.com/__abdullah.ali__" target="_blank">
-    <img src="[https://img.icons8.com/neon/48/instagram-new.png](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdullah-ali-44a892330" target="_blank">
-    <img src="https://img.icons8.com/neon/48/linkedin.png"/>
-  </a>
-  <a href="mailto:smabd7409@gmail.com">
-    <img src="https://img.icons8.com/neon/48/gmail.png"/>
-  </a>
-</p>
-
-### 📫 Let's Connect:
-
-<p align="left">
-  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+  <a href="www.linkedin.com/in/abdullah-ali-44a892330" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:smabd7409@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
