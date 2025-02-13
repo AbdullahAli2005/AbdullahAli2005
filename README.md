@@ -26,7 +26,7 @@
 
 <p align="left">
   <a href="https://instagram.com/__abdullah.ali__" target="_blank">
-    <img src="https://img.icons8.com/neon/48/instagram-new.png"/>
+    <img src="[https://img.icons8.com/neon/48/instagram-new.png](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)"/>
   </a>
   <a href="https://www.linkedin.com/in/abdullah-ali-44a892330" target="_blank">
     <img src="https://img.icons8.com/neon/48/linkedin.png"/>
