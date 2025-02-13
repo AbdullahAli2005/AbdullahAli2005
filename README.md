@@ -36,6 +36,21 @@
   </a>
 </p>
 
+### 📫 Let's Connect:
+
+<p align="left">
+  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank">
+    <img src="https://img.icons8.com/neon/48/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+    <img src="https://img.icons8.com/neon/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.icons8.com/neon/48/gmail.png" alt="Gmail"/>
+  </a>
+</p>
+
+
 ---
 
 💡 Got a wild idea or an unusual problem? Throw it my way—I just might surprise you!  
