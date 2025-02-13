@@ -40,16 +40,15 @@
 
 <p align="left">
   <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank">
-    <img src="https://img.icons8.com/neon/48/instagram-new.png" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
-    <img src="https://img.icons8.com/neon/48/linkedin.png" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.icons8.com/neon/48/gmail.png" alt="Gmail"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
-
 
 ---
 
