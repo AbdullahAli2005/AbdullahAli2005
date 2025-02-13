@@ -23,9 +23,10 @@
 ---
 
 ### 📫 Let's Connect:
-- **Instagram:** [@YOUR_INSTAGRAM_HANDLE](https://instagram.com/__abdullah.ali__)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/abdullah-ali-44a892330)
-- **Gmail:** [your.email@gmail.com](mailto:smabd7409@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__abdullah.ali__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-ali-44a892330E)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smabd7409@gmail.com)
 
 ---
 
