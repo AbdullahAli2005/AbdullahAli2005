@@ -28,7 +28,7 @@
   <a href="https://instagram.com/__abdullah.ali__" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="www.linkedin.com/in/abdullah-ali-44a892330" target="_blank">
+  <a href="https://linkedin.com/in/abdullah-ali-44a892330" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:smabd7409@gmail.com">
