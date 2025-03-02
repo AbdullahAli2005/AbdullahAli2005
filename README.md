@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 Tech Stack:
-- **Languages:** Dart, C, HTML, CSS
+- **Languages:** Dart, C, HTML, CSS, JavaScript
 - **Frameworks & Tools:** Flutter, Firebase, Git, GitHub
 - **Database:** Firestore, SQLite
 - **Other Skills:** UI/UX Design, API Integration, State Management (Provider, GetX)
@@ -17,8 +17,29 @@
 - 💻 Crafting responsive and functional websites
 - 🎨 Designing visually appealing graphics
   
+---
+
+### 🛠️ Tools & Languages:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+</p>
+
+---  
+  
 ### 📊 GitHub Stats:
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahAli2005&show_icons=true&theme=radical)
+
+### 📊 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAli2005&layout=compact&theme=radical)
 
 ---
 
