@@ -69,7 +69,6 @@ const engineer = {
 };
 ```
 
-I design and engineer systems at the boundary of **language models**, **intelligent backends**, and **polished product interfaces**. Currently building [DentiCore](https://github.com/AbdullahAli2005/DentiCore) — an AI-powered voice dental assistant — as my Final Year Project, while working professionally as an **AI Engineer at Virtuosoft**. My work spans agentic pipelines, RAG architectures, full-stack web applications, and production-grade Flutter apps.
 
 ---
 
