@@ -257,45 +257,6 @@ Developed and maintained cross-platform mobile applications using Flutter, deliv
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| 🎖️ Recognition | Details |
-|:---:|:---|
-| **FYP Selection** | DentiCore selected as an AI-first Final Year Project at UBIT |
-| **Dual-Track Engineering** | Simultaneously shipping AI systems and mobile applications in production |
-| **Full-Stack AI Portfolio** | End-to-end projects spanning RAG, agents, mobile, and web — all public on GitHub |
-| **Freelance Presence** | Active Fiverr seller delivering Python, MERN, Next.js, and Flutter services |
-| **Early Career AI Role** | Secured AI Engineering position while completing undergraduate degree |
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-**CS50 & Academic**
-
-![CS50](https://img.shields.io/badge/Harvard%20CS50-8B0000?style=for-the-badge&logo=edx&logoColor=white)
-![UBIT](https://img.shields.io/badge/UBIT%20Dean's%20Curriculum-4C1D95?style=for-the-badge&logo=university&logoColor=white)
-
-**AI / ML**
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace%20NLP%20Course-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Coursera](https://img.shields.io/badge/Coursera%20ML%20Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-
-**Development**
-
-![Udemy](https://img.shields.io/badge/Flutter%20%26%20Dart%20Bootcamp-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-![Udemy](https://img.shields.io/badge/Python%20Developer%20Bootcamp-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -313,16 +274,6 @@ Developed and maintained cross-platform mobile applications using Flutter, deliv
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbdullahAli2005&theme=darkhub&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -330,18 +281,6 @@ Developed and maintained cross-platform mobile applications using Flutter, deliv
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAli2005&bg_color=0d0d1a&color=A78BFA&line=7C3AED&point=ffffff&area=true&area_color=4C1D95&hide_border=false&border_color=2d2d4e&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/AbdullahAli2005/AbdullahAli2005/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> **Note:** To activate the snake, add a GitHub Actions workflow to your profile repository that generates the SVG on a schedule and pushes it to an `output` branch.
 
 ---
 
